@@ -11,9 +11,9 @@
 #     print(i)
 
 students = [
-    {"name": "Alice", "scores": [85, 92, 78]},
-    {"name": "Bob", "scores": [88, 74, 91]},
-    {"name": "Charlie", "scores": [95, 89, 85]},
+    {"name": "Mithuni", "scores": [85, 92, 78]},
+    {"name": "Sanduni", "scores": [88, 74, 91]},
+    {"name": "Pawani", "scores": [95, 89, 85]},
 ]
 
 for student in students:
