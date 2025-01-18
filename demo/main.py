@@ -6,3 +6,6 @@ elif len(name) <3:
     print("Password must contain at-least 3 characters!")
 else:
     print("Password looks good!")
+
+for i in range(1, 6):
+    print(i)
